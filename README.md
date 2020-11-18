@@ -3,8 +3,7 @@
 
 The Ultimate Budget Tracker gives users a fast and easy way to track their money and, with offline functionality, allows them to access that information at any time. Easily add expenses and deposits to your budget with or without a connection. 
 
-Offline Functionality
-You’ll need to use IndexedDB to add offline functionality. Review Module 18: NoSQL, Lesson 4: Add Offline Persistence with IndexedDB as a refresher on how to add this to your application.
+Need to use IndexedDB to add offline functionality. Review Module 18: NoSQL, Lesson 4: Add Offline Persistence with IndexedDB as a refresher on how to add this to your application. Done. 
 
 You’ll also need to add a service worker to your application. Review Module 19: Progressive Web Applications (PWA), Lesson 4: Using Service Workers as a refresher on how to add this to your application.
 
@@ -34,16 +33,12 @@ Application must be deployed to Heroku.
 
 Deployment: 32%
 Application deployed at live URL.
-
-Application loads with no errors.
-
 Application GitHub URL submitted.
 
-GitHub repository contains application code.
 
-Application Quality: 15%
-User experience is intuitive and easy to navigate.
-Repository Quality: 13%
+
+
+
 Repository has a unique name.
 
 Repository follows best practices for file structure and naming conventions.
